@@ -17,5 +17,9 @@ Após adicionarmos as características de Rarity chegamos a esse protótipo:</p>
 <img src="furbyia.jpeg" width="200" height="400">
 <p>Protótipo gerado por IA</p>
 
+## Controle
+
+<img src="controle.png" width="300" height="300">
+<p>Programa do nosso controle</p>
 
 </body>
