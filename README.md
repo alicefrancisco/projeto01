@@ -6,4 +6,6 @@
 Apaixonada por moda e design, ela se dedica a ajudar as amigas e embelezar o mundo, equilibrando sua busca por reconhecimento público com um coração altruísta.
 <img src="rarity.jpg" width="300" height="300"
 
+
+## Estrutura
 </body>
