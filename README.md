@@ -12,9 +12,9 @@ Apaixonada por moda e design, ela se dedica a ajudar as amigas e embelezar o mun
 <img src="furby.webp" width="300" height="300">
 <p>Nos inspiramos no modelo de fuby de 2023 para fazermos a nossa versão;
 Após adicionarmos as características de Rarity chegamos a esse protótipo:</p>
-<img src="furbyds.jpeg" width="300" height="400">
+<img src="furbyds.jpeg" width="200" height="400">
 <p>Protótipo feito a mão</p>
-<img src="furbyia.jpeg" width="300" height="400">
+<img src="furbyia.jpeg" width="200" height="400">
 <p>Protótipo gerado por IA</p>
 
 
